@@ -1,0 +1,70 @@
+
+  - id: "4219-2bb4-3b52"
+    web:
+      metaDescription: "HaircutShave"
+      metaTitle: "Basic"
+      metaLinkText: "Basic"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 105
+      listed: true
+    data:
+      btn_name: "Book now"
+      carousel_img: "https://km76w3d4.media.zestyio.com/barbss.jpg"
+      price_desc: "<p>Simplicity is beauty! <br />This promo includes the ff:</p>\n<p>Haircut<br />Shave<br />Foot Massage</p>"
+      price_image: "https://km76w3d4.media.zestyio.com/citizen.jpg"
+      price_title: "Citizen - $10"
+      sort_order: 1
+  - id: "3089-bbdd-9323"
+    web:
+      metaDescription: "Haircut\nShave\nWash\nBlowdry\nMassage"
+      metaTitle: "Prince"
+      metaLinkText: "Prince"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 106
+      listed: true
+    data:
+      btn_name: "Book now"
+      carousel_img: "https://km76w3d4.media.zestyio.com/equipments.jpg"
+      price_desc: "<p>Feel like a Prince charming! <br />This promo includes the ff:</p>\n<p>Haircut<br />Shave<br />Wash<br />Blowdry<br />Body Massage</p>"
+      price_image: "https://km76w3d4.media.zestyio.com/prince.jpg"
+      price_title: "Prince - $30"
+      sort_order: 2
+  - id: "5e69-4267-62fd"
+    web:
+      metaDescription: "Haircut\nShave\nWash\nBlowdry\nScalp treatment\nFace, Body, and Foot massage"
+      metaTitle: "King"
+      metaLinkText: "King"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 107
+      listed: true
+    data:
+      btn_name: "Book now"
+      carousel_img: "https://km76w3d4.media.zestyio.com/chairs.jpg"
+      price_desc: "<p>Be a king for a moment! <br />This promo includes the ff:</p>\n<p>Haircut<br />Shave<br />Wash<br />Blowdry<br />Scalp treatment<br />Face, Body, and Foot massage</p>"
+      price_image: "https://km76w3d4.media.zestyio.com/king.jpg"
+      price_title: "King - $40"
+      sort_order: 3
